@@ -20,3 +20,8 @@ You can test the model after training on any new image source
 ```
   python inference.py
 ```
+
+## Results
+![](https://github.com/Shahrullo/FastRCNN_based_Microcontroller_Detection/blob/main/outputs/train_loss_100.png)
+![](https://github.com/Shahrullo/FastRCNN_based_Microcontroller_Detection/blob/main/outputs/valid_loss_100.png)
+
