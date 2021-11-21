@@ -8,7 +8,8 @@
 
 # How to use:
 ## To Train
-```  1. Dowload or clone the repo
+```  
+  1. Dowload or clone the repo
   2. pip install requirements
   3. cd src
   4. python train.py
