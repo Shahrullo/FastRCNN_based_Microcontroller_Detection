@@ -7,4 +7,9 @@
   * New images are tested at last, showing the inference of model
 
 # How to use:
-## To Traing
+## To Train
+```  1. Dowload or clone the repo
+  2. pip install requirements
+  3. cd src
+  4. python train.py
+```
