@@ -14,3 +14,9 @@
   3. cd src
   4. python train.py
 ```
+
+## To Test
+You can test the model after training on any new image source
+```
+  python inference.py
+```
